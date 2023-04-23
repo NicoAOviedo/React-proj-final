@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Ramo 1",
+      "price": 10,
+      "img": "https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "Ramo 2",
+      "price": 20,
+      "img": "https://images.pexels.com/photos/1178986/pexels-photo-1178986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "quanty": 1
+    },
+  
+    {
+      "id": 3,
+      "name": "Ramo 3",
+      "price": 27,
+      "img": "https://images.pexels.com/photos/14631832/pexels-photo-14631832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Ramo 4",
+      "price": 18,
+      "img": "https://images.pexels.com/photos/14559328/pexels-photo-14559328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "quanty": 1
+    }
+  ]
